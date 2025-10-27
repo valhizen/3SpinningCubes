@@ -24,8 +24,9 @@ After building, run the application:
 - Edit GLSL shaders in `/shader/vertex.glsl` and `/shader/fragment.glsl` as needed.
 
 ## Video Demo
-A video demonstration of the running cubes is included here:
-![Watch the video demo](./video/Timeline.mp4)
+[Watch the video demo (Timeline.mp4)](./video/Timeline.mp4)
+
+> **Note:** GitHub does not support embedded video playback in README files. Please click the link above to view or download the demo video.
 
 ---
 
